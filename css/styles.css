@@ -30,6 +30,7 @@ ul {
     line-height: 1.5;
     font-weight: 500;
     font-size: 16px;
+    letter-spacing: 0.02em;
 }
 
 .address-list .link {
@@ -37,6 +38,7 @@ ul {
     text-decoration: none;
     line-height: 1.5;
     font-size: 16px;
+    letter-spacing: 0.02em;
     /* font-style: normal; */
 }
 
@@ -77,6 +79,7 @@ ul {
 }
 
 .section-title {
+    color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -86,6 +89,7 @@ ul {
  }
 
 .title {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -95,7 +99,6 @@ ul {
 .text {
     font-size: 16px;
     line-height: 150%;
-    color: #434455;
 }
 
 .team-section .team-list {
