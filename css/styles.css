@@ -9,7 +9,7 @@ ul {
 }
 
 .logo-link {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 700;
@@ -46,11 +46,6 @@ ul {
     color: #404BBF;
 }
 
-.order-btn {
-    cursor: pointer;
-    background-color: #4d5ae5;
-}
-
 .hero-title {
     font-weight: 700;
     font-size: 56px;
@@ -59,7 +54,9 @@ ul {
     color: #FFFFFF;
 }
 
-.order-btn {
+.order-btn {     
+    cursor: pointer;
+    background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
