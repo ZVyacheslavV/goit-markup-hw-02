@@ -36,6 +36,7 @@ ul {
     text-decoration: none;
     line-height: 1.5;
     font-size: 16px;
+    font-style: normal;
 }
 
 .pagenav-list .link:hover,
@@ -47,6 +48,7 @@ ul {
 
 .order-btn {
     cursor: pointer;
+    background-color: #4d5ae5;
 }
 
 .hero-title {
@@ -101,3 +103,18 @@ ul {
     line-height: 150%;
     color: #F4F4FD;
 }
+
+
+
+.hero-section {
+    background-color: #2E2F42;
+}
+
+.team-section {
+    background-color: #f4f4fd;
+}
+
+.page-footer {
+    background-color: #2E2F42;
+}
+
