@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    letter-spacing: 0.02em;
+    /* letter-spacing: 0.02em; */
     background-color: #FFFFFF;
 }
 
@@ -88,7 +88,7 @@ ul {
     text-transform: capitalize;
  }
 
-.title {
+.section-subtitle {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
@@ -96,7 +96,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.text {
+.section-text {
     font-size: 16px;
     line-height: 150%;
 }
@@ -109,11 +109,11 @@ ul {
     background-color: #FFFFFF;
 }
 
-.team-list .title {
+.team-list .section-subtitle {
     text-align: center;
 }
 
-.team-list .text {
+.team-list .section-text {
     text-align: center;
 }
 
