@@ -101,19 +101,19 @@ ul {
     line-height: 150%;
 }
 
-.team-section .team-list {
+.team-section .team-facelist {
     background-color: #FFFFFF;
 }
 
-.team-facebook {
+.team-facelist-item {
     background-color: #FFFFFF;
 }
 
-.team-list .section-subtitle {
+.team-facelist .section-subtitle {
     text-align: center;
 }
 
-.team-list .section-text {
+.team-facelist .section-text {
     text-align: center;
 }
 
