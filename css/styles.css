@@ -1,4 +1,4 @@
-/* GLOBAL Styles */
+/* ==GLOBAL styles== */
 :root {
 --iris: #4D5AE5;
 --ocean: #404BBF;
@@ -27,6 +27,10 @@ ul {
    list-style-type: none; 
 }
 
+img {
+    display: block;
+    max-width: 100%;
+
 /* h1, h2, h3, h4, h5, h6, p {
     margin-top: 0;
     margin-bottom: 0;
@@ -38,7 +42,7 @@ ul, ol {
     padding-left: 0;
 } */
 
-/* PAGE styles */
+/* ==PAGE styles== */
 .logo-link {
     font-family: var(--second-family);
     text-transform: uppercase;
